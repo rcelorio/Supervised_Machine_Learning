@@ -19,7 +19,7 @@ The goal of this repository is to build and evaluate several machine learning mo
 ### cluster centroids
 ![](Resources/cc.png)
 ### SMOTEENN
-![](Resources/smoteen.png)
+![](Resources/smoteenn.png)
 ### BalancedRandomForestClassifier
 ![](Resources/brfc.png)
 ### EasyEnsembleClassifier
