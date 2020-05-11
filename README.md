@@ -14,6 +14,7 @@ The goal of this repository is to build and evaluate several machine learning mo
 
 ### RandomOverSampler
 ![](Resources/ros.png)
+
 This model produced a balanced accuracy score of 0.65, a high precision score of 0.01, a high recall score of .63 and an average f1 score of 0.80. The recall score is on the lower end and indicates the model is not accurate enough to predict high risk borrowers. 
 
 ### SMOTE
